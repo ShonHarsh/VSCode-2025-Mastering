@@ -1,0 +1,8 @@
+@url = http://localhost:8080/sdfg
+
+
+POST {{url}}
+###
+
+GET https://amazon.com
+###
