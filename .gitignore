@@ -1,0 +1,57 @@
+# Ignore build artifacts
+*.log
+dist/
+build/
+out/
+
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore dependencies
+node_modules/
+
+# Ignore JavaScript artifacts
+*.min.js
+*.js.map
+*.css.map
+
+# Ignore JetBrains IDEs
+.idea/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore Python compiled files and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Ignore HTML and CSS preprocessors
+*.sass-cache
+*.scssc
+*.lessc
+
+# Ignore Sass cache
+.sass-cache/
+
+# Ignore TypeScript output
+*.tsbuildinfo
+
+# Ignore VSCode settings
+.vscode/
+*.code-workspace
