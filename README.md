@@ -1,8 +1,10 @@
 # VSCode-2025-Mastering - Notes
 
+This repository contains the notes for the Udemy course Mastering Visual Studio Code (2025) and the course resources.
+
 ## Details
-Name: [Mastering Visual Studio Code (2025)](https://www.udemy.com/course/mastering-visual-studio-code/)
-Instructor: [Alex Dan](https://www.udemy.com/user/alexhorea/)
+Name: [Mastering Visual Studio Code (2025)](https://www.udemy.com/course/mastering-visual-studio-code/)  
+Instructor: [Alex Dan](https://www.udemy.com/user/alexhorea/)  
 
 ## Outline
 
