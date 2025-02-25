@@ -1,0 +1,15 @@
+integerValue: 1              
+floatingValue: 1                 
+
+stringValue: "456"             
+
+string1: |
+   Line1
+   line2
+   "line3"
+
+mysqldatabase:
+  hostname: localhost
+  port: 3012
+  username: root
+  password: root
